@@ -1,12 +1,12 @@
-## Pour faire fonctionner le projet:
+# Pour faire fonctionner le projet:
 
-# Dans un premier terminale dans le dossier frontend lancer:
+## Dans un premier terminale dans le dossier frontend lancer:
 
 npm install
 
 ng serve -o
 
-# Dans un second terminale toujours dans le dossier frontend lancer:
+## Dans un second terminale toujours dans le dossier frontend lancer:
 
 json-server 
 
